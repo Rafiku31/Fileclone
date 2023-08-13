@@ -490,8 +490,9 @@ ___/ / __  // // __/ / ___ |/ /   
 /____/_/ /_/___/_/   /_/  |_/_/                                                                                                                                                                                                                                                                                  
 =================================================
     [-] AUTHOR    :\033[1;32m SHIFAT RAHOMAN
-    [-] GITHUB    :\033[1;32SHIFAT-RAHOMAN
-    [-] WhatsApp  :\033[1;32m 019
+    [-] GITHUB    :\033[1;32 SHIFAT-RAHOMAN
+    [-] WhatsApp  :\033[1;32m 01913440270
+    [-] Facebook  :\033[1;32m https://www.facebook.com/shifat.rahoman.35?mibextid=ZbWKwL
     [-] TOOLS     :\033[1;32m FILE CLONE
     [-] VERSION   :\033[1;32m 1.2
     [-] STATUS    :\033[1;32m Free
